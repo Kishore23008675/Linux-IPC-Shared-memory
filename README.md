@@ -19,7 +19,7 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-Developer name: Kishor A
+Developer name: Kishore A
 
 Register no:212223110022
 
